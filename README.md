@@ -1,4 +1,4 @@
 # And God said:
 ```
-"let there be #FFFFFF".
+let there be #FFFFFF
 ```
